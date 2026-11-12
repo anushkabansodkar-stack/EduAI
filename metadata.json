@@ -1,0 +1,6 @@
+{
+  "name": "EduAI",
+  "description": "Smarter Question Papers. Personalized Learning. AI-powered educational analysis and learning platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

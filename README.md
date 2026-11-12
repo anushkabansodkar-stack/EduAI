@@ -1,5 +1,3 @@
-# EduAI
-AI-powered educational platform that analyzes question difficulty levels, identifies Bloom's Taxonomy levels, and helps teachers generate and evaluate exam questions.
 # EduAI – AI-Powered Educational Analysis and Learning Platform (Science 2 Edition)
 
 > **“Smarter Question Papers. Personalized Learning.”**
